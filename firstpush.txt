@@ -1,3 +1,5 @@
 First I CLONED the repository, push is only for after the repository has been cloned and needs to be updated. 
 Then, I created this file with this text.
 Now, I am going to Push this file to the remote repository.
+
+This is a new line after the initial commit.
